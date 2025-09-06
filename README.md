@@ -1,6 +1,3 @@
-<!-- Banner Image -->
-![GitHub Banner](https://i.ibb.co/6JRjYpb/developer-banner.png)
-
 # Hi 👋 I'm Sachin Saini  
 
 🚀 Learning | 💻 Building | 🌍 Sharing  
